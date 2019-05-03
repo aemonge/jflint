@@ -21,7 +21,7 @@ So I created this tool to lint easily. **This tool itself does not lint a Jenkin
 ## Install
 
 ```
-$ npm install jflint -g
+$ npm install js-base64 jflint -g
 ```
 
 ## Usage
